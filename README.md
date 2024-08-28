@@ -28,9 +28,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Swift, Swift UI, Fire Base, C++**
 
-- 🌱 I’m currently learning **Swift, Swift UI, Fire Base, C++, React, Python**
+- 🌱 I’m currently learning **Swift, Swift UI, Fire Base, C++, React, Python, UI/UX**
 
-- ☁️ I've keen interest in UI/UX. So,I'm learning **Swift UI, CSS, Bootstrap, Tailwind**
+- ☁️ I've keen interest in UI/UX. So,I'm learning **Swift UI, CSS, Bootstrap, Tailwind, Figma,UX**
 
 <!--- 📝 I regularly write articles on [My BlogPage](https://url.com)-->
 
