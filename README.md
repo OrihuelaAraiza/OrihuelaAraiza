@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -9,29 +8,61 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">If you can dream it, you can code it</h2></summary>
+    <summary><h2 style="display: inline-block">Frontend Developer · Building interfaces that feel alive</h2></summary>
   </ul>
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Frontend+Developer+%40+ROMI;Next.js+%2B+React+%2B+TypeScript;Turning+designs+into+scroll-driven+experiences;Game+Dev+%26+3D+enthusiast+on+the+side" alt="Typing SVG" />
+</p>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Swift, Swift UI, Fire Base, C++**
+- 💻 I'm a **Frontend Developer**, currently building the web presence for **ROMI** — AI product UI, design systems and data-driven interfaces
 
-- 🌱 I’m currently learning **Swift, Swift UI, Fire Base, C++, React, Python, UI/UX**
+- 🎨 I specialize in **Next.js, React, TypeScript & Tailwind CSS**, with a growing focus on motion and scrollytelling (**Framer Motion, Lenis**)
 
-- ☁️ I've keen interest in UI/UX. So,I'm learning **Swift UI, CSS, Bootstrap, Tailwind, Figma,UX**
+- 🕹️ I'm also studying **Animation & Video Game Development**, exploring **Unity** and **3D rigging in Maya**
 
-<!--- 📝 I regularly write articles on [My BlogPage](https://url.com)-->
+- 🌱 Currently sharpening **React Native** and **Swift/SwiftUI** for cross-platform and native mobile work
 
-- 💬 Ask me about **Swift, Swift UI, Fire Base, C++**
+- 💬 Ask me about **React, Next.js, TypeScript, Tailwind, UI/UX & design systems**
 
+- ⚡ Fun fact: I like giving side projects the same polish as production work — down to hand-crafted ASCII art
+
+<!--Featured projects-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Featured Work 🚀</h2></summary>
+  </ul>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌊 Vida Líquida</h3>
+      <p align="center">Ecommerce platform built with <b>Next.js 15, Sanity CMS, Conekta & MercadoPago</b>, state managed with Zustand + TanStack Query.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧬 ROMI Web Platform</h3>
+      <p align="center">Scrollytelling landing page, Chat ROMI integration and Leaflet-based geographic visualizations for an AI innovation platform.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔒 MySafeBox</h3>
+      <p align="center">Secure document storage app built with <b>React, Vite & Supabase</b>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 WeCanFixThis</h3>
+      <p align="center">Multiplayer co-op game prototype in <b>Unity 2022 LTS</b> using the New Input System.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>💡 Pin your top repos above using GitHub's "Customize your pins" so recruiters see these front and center.</i></p>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -62,10 +93,8 @@
 </div>
 <!--- trophy (start) -->
 
-
 </p>        
 <!--- stats (end) -->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -76,31 +105,21 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,ae,arduino,autocad,bootstrap,c,cs,cpp,discord,css,dotnet,firebase,figma,github,ai,instagram,html,ps,powershell,py,react,replit,swift,tailwind,unity,unreal,vscode,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,figma,git,github,html,css,swift,unity,py,cpp,cs,firebase,vscode,vite&perline=14" />
   </a>
 </p>
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<!-- <div id="user-content-toc">
+<!--Now section-->
+<div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">What I'm Focused On Right Now 🔭</h2></summary>
   </ul>
 </div>
--->
-<!--icons and links-->
 
-<!--
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+Building scroll-driven web experiences with the App Router, refining design systems, and exploring how motion (Framer Motion + Lenis) can make product storytelling more engaging — while keeping one foot in game dev and 3D animation.
 </p>
--->
+
 <!--profile visit count-->
 <div align="center">
   
@@ -112,4 +131,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Last Edited on: 11/09/2023
+Last Edited on: 08/03/2026
